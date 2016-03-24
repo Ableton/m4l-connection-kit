@@ -33,6 +33,6 @@ A detailed description of the JSON data format can be found [here](http://www.js
 
 The Arduino/Genuino is an open hard- and software platform with physical in- and outputs based on a microcontroller. The physical in- and outputs of an Arduino/Genuino microcontroller allow for connecting sensors and actuators which can be accessed by a programming interface. This software interface provides access to the data coming from a variety of sensors and enables the control of LEDs, motors and other peripherals. The “serial” object provided by the Max visual programming environment allows for connecting an Arduino/Genuino via the USB port of a computer. The Arduino Max for Live device takes advantage of that connection and provides an interface for simple interaction between the Max platform and the in- and outputs of an Arduino/Genuino Uno microcontroller.
 
-You can find lots of examples and tutorials at [arduino.cc](https://www.arduino.cc/) and [arduino.org](https://www.arduino.org)
+You can find lots of examples and tutorials at [arduino.cc](https://www.arduino.cc/) and [arduino.org](http://www.arduino.org)
 
 
