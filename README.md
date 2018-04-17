@@ -28,7 +28,6 @@ In this pack we have used JSON based APIs with the JSON Video and JSON Weather d
 
 A detailed description of the JSON data format can be found [here](http://www.json.org/)
 
-
 ## ARDUINO / GENUINO
 
 The Arduino/Genuino is an open hard- and software platform with physical in- and outputs based on a microcontroller. The physical in- and outputs of an Arduino/Genuino microcontroller allow for connecting sensors and actuators which can be accessed by a programming interface. This software interface provides access to the data coming from a variety of sensors and enables the control of LEDs, motors and other peripherals. The “serial” object provided by the Max visual programming environment allows for connecting an Arduino/Genuino via the USB port of a computer. The Arduino Max for Live device takes advantage of that connection and provides an interface for simple interaction between the Max platform and the in- and outputs of an Arduino/Genuino Uno microcontroller.
@@ -38,3 +37,7 @@ You can find lots of examples and tutorials at [arduino.cc](https://www.arduino.
 ## Maintainers
 
 * [@crk-ableton](https://github.com/crk-ableton)
+
+## Support
+
+For help with any technical issues, please contact [Ableton Support](https://help.ableton.com/hc/requests/new?ticket_form_id=127269).
