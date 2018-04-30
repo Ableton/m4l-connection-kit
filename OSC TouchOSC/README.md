@@ -1,10 +1,11 @@
 # Abstract
 
-The TouchOSC device allows you to map any controller from any available TouchOSC layout to Live elements, so as to control them remotely with your iPad or iPhone. For the communication between Live and TouchOSC the OSC (Open Sound Control) protocol is used. You can find detailed documentation on TouchOSC [here] (http://hexler.net/docs/touchosc).
+The TouchOSC device allows you to map any controller from any available TouchOSC layout to Live elements, so as to control them remotely with your iPad or iPhone. For the communication between Live and TouchOSC the OSC (Open Sound Control) protocol is used. You can find detailed documentation on TouchOSC [here](http://hexler.net/docs/touchosc).
 
 # Prerequisites
 
-* For this device to work you need an iPhone or iPad or iPod Touch with the TouchOSC application installed on it. You can get TouchOSC from [here] (https://itunes.apple.com/app/touchosc/id288120394).
+* For this device to work you need an iPhone or iPad or iPod Touch with the TouchOSC application installed on it. You can get TouchOSC from [here](https://itunes.apple.com/app/touchosc/id288120394).
+
 
 # Connection Guidelines
 
@@ -31,6 +32,7 @@ The TouchOSC device allows you to map any controller from any available TouchOSC
 
 * Touch any control on TouchOSC. If the blue light next to “Port” on your device is blinking, this means that a connection has been successfully established between Live and TouchOSC.
 
+
 ### Troubleshooting
 
 * Double-check that you have provided your sender with the right host address and that both sender and receiver share the same valid (between 1024 - 65535) port number.
@@ -38,6 +40,7 @@ The TouchOSC device allows you to map any controller from any available TouchOSC
 * Try quitting the Max application if it is open.
 
 * Try a different port number.
+
 
 # Mapping
 

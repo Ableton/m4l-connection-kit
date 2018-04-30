@@ -1,14 +1,15 @@
-#Abstract
+# Abstract
 
 The M4L OSC Leap Motion device is using Leap Motion to generate midi notes, with the help of the ManosOsc application. Leap Motion is a hardware sensor device that supports hand and finger motions as input while ManosOsc receives the raw sensor data and translates it into OSC data. 
 
-#Prerequisites
+# Prerequisites
 
-* For this device to work you need a Leap Motion sensor and the ManosOSC application. You can find instructions on how to setup Leap Motion [here] (https://www.leapmotion.com/setup), and you can get ManosOSC for OS X [here] (https://apps.leapmotion.com/apps/manososc/osx) and for Windows [here] (https://apps.leapmotion.com/apps/manososc/windows).
+* For this device to work you need a Leap Motion sensor and the ManosOSC application. You can find instructions on how to setup Leap Motion [here](https://www.leapmotion.com/setup), and you can get ManosOSC for OS X [here](https://apps.leapmotion.com/apps/manososc/osx) and for Windows [here](https://apps.leapmotion.com/apps/manososc/windows).
 
-#Connection Guidelines
 
-##Establish Connection
+# Connection Guidelines
+
+## Establish Connection
 
 * Connect your Leap Motion to your computer using the provided USB cable.
 
@@ -24,11 +25,11 @@ The M4L OSC Leap Motion device is using Leap Motion to generate midi notes, with
 
 Finally, you can adjust the speed at which you are receiving OSC messages by changing the "Smooth" parameter (in milliseconds).
 
-##Test Connection
+## Test Connection
 
 * Wave your hand over the Leap Motion. If the blue light next to “Port” on your device is blinking, this means that a connection has been successfully established between Live and LeapMotion.
 
-###Troubleshooting
+### Troubleshooting
 
 * Double-check that you have provided your sender with the right host address and that both sender and receiver share the same valid (between 1024 - 65535) port number.
 

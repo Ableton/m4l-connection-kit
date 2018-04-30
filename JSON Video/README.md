@@ -1,8 +1,8 @@
 # Abstract
-"JSON Video" is the second example device on how to fetch web data in json format - in particular  #ableton tagged looped videos from the online video sharing service “Vine” using their [API] (https://github.com/starlock/vino/wiki/API-Reference). 
+"JSON Video" is the second example device on how to fetch web data in json format - in particular  #ableton tagged looped videos from the online video sharing service “Vine” using their [API](https://github.com/starlock/vino/wiki/API-Reference). 
 
 
-#Guidelines
+# Guidelines
 
 * Just click on “Fetch Video”. 
 

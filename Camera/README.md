@@ -1,12 +1,13 @@
 # Abstract
+
 This device brings inside Live webcam data in order to control mappable parameters. 
 
-#Prerequisites
+# Prerequisites
 
 * If your computer does not have a built in web camera, you will need to connect one.
 
 
-#Guidelines
+# Guidelines
 
 * On the left side, select your video source (if there is more than one).
 

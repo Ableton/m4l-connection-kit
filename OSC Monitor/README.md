@@ -2,7 +2,7 @@
 A simple but useful OSC data monitor - it displays incoming OSC messages.
 
 
-#Guidelines
+# Guidelines
 
 * Enter your Port number and any incoming data on this port will be displayed. 
 
