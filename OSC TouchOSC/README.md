@@ -20,7 +20,7 @@ The TouchOSC device allows you to map any controller from any available TouchOSC
 
 * Make sure that “Enabled” is on.
 
-* Click on “Host” and enter the receiver’s IP address (in this case your computer) which can be found on the top left of the TouchOSC device.
+* Click on “Host” and enter the receiver’s IP address (in this case your computer), which can be found using [this appendix](https://hexler.net/docs/touchosc-appendix).
 
 * Click on “Port (outgoing)” and insert the same port number as your Max device.    
 
