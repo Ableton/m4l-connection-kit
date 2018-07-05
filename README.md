@@ -10,7 +10,7 @@ The main core technologies that have been utilised in this pack are the followin
 
 Max is a visual programming environment for sound, graphics, music and interactivity developed by Cycling 74. It provides an interface for visually patching together programs to make interactive sounds, graphics and custom effects. Max For Live is a collaboration between Cycling 74 and Ableton that integrates the Max environment into Ableton Live and allows a user to edit and run Max based programs as Live devices. All the devices in the Connection Kit are written in Max with the intent of allowing users to adapt the devices to their specific needs and requirements by editing them inside the Max For Live editor or inside Max itself.
 
-To learn more about how to program in Max visit our friends at Cycling 74 for some excellent [tutorials](https://cycling74.com/category/articles/tutorials/?sort=popular).
+To learn more about how to program in Max visit our friends at Cycling 74 for some excellent [tutorials](https://cycling74.com/tutorials/popular/page/1).
 
 ## OSC
 
