@@ -17,7 +17,7 @@ The LEGO MINDSTORMS EV3 Max4Live device connects an EV3 brick of the LEGO MINDST
 
 ## Connecting an EV3 Brick
 
-  * Once you established a permant link between your computer and the bluetooth port of your EV3 brick in your OS, the name of the EV3 brick will appear in the list of possible serial devices in the left column of the LEGO MINDSTORMS EV3 M4L device regardless of its actual state.
+  * Once you established a permanent link between your computer and the bluetooth port of your EV3 brick in your OS, the name of the EV3 brick will appear in the list of possible serial devices in the left column of the LEGO MINDSTORMS EV3 M4L device regardless of its actual state.
   * Select the brick you want to connect to and depending on its availability a connection will be established. This may take a few seconds.
 
 ## Connecting the Sensors
@@ -49,7 +49,7 @@ The LEGO MINDSTORMS EV3 Max4Live device connects an EV3 brick of the LEGO MINDST
 
 ### Thresh
 
-  * The Thresh parameter allows to adjust the treshold used to trigger messages for a motor. Its value is represented as percentage of the possible value range of the according parameter.
+  * The Thresh parameter allows to adjust the threshold used to trigger messages for a motor. Its value is represented as percentage of the possible value range of the according parameter.
 
 ### Max
 
