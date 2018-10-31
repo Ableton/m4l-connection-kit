@@ -12,7 +12,7 @@ To connect your Arduino with the arduino M4L device, you need to load the device
 
 # Device Description
 
-The Max4Live device offers access to all analog inputs (A0-A5) and digital ports (0-17	) of an Arduino Uno using a consistent interface separared in two tabs. Every pin and port of the Arduino Uno is represented by an individual row in the table to the right of the device. 
+The Max4Live device offers access to all analog inputs (A0-A5) and digital ports (0-17	) of an Arduino Uno using a consistent interface separated in two tabs. Every pin and port of the Arduino Uno is represented by an individual row in the table to the right of the device. 
 
 To establish a connection between a pin or port of the Arduino and a certain Live parameter you need to use the dedicated MAP button in its respective row. Click the button first and then select the parameter in Live which you want to connect to the Arduino. This either allows you to control a Live parameter using a sensor or to control a LED or Servo using a parameter in Live. Several additional parameters are furthermore available in the M4L device to fine-tune the parameter mapping according to your needs.
 
