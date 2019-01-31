@@ -6,7 +6,7 @@ The LEGO MINDSTORMS EV3 Max4Live device connects an EV3 brick of the LEGO MINDST
 
 * For this device to work you will need a kit of LEGO MINDSTORMS including an EV3 brick running firmware version 1.08H or later.
 
-* Apart from assembling your LEGO robot/machinery you need to establish a Bluetooth connection between your computer and the EV3 brick. Please follow the instructions of your operating system of how to setup such a bluethooth connection ([Mac](https://support.apple.com/kb/PH18963)|[Win](http://windows.microsoft.com/en-us/windows-10/getstarted-connect-to-bluetooth-devices)) and also the [LEGO MINDSTORMS](https://www.lego.com/en-us/service/help/products/themes-sets/mindstorms/connecting-your-lego-mindstorms-ev3-to-bluetooth-408100000007886) troubleshooting bluetooth documentation.
+* Apart from assembling your LEGO robot/machinery you need to establish a Bluetooth connection between your computer and the EV3 brick. Please follow the instructions of your operating system of how to setup such a bluetooth connection ([Mac](https://support.apple.com/kb/PH18963)|[Win](http://windows.microsoft.com/en-us/windows-10/getstarted-connect-to-bluetooth-devices)) and also the [LEGO MINDSTORMS](https://www.lego.com/en-us/service/help/products/themes-sets/mindstorms/connecting-your-lego-mindstorms-ev3-to-bluetooth-408100000007886) troubleshooting bluetooth documentation.
 
 # General Device Description
 
