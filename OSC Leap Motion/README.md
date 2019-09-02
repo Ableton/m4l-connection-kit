@@ -4,7 +4,7 @@ The M4L OSC Leap Motion device is using Leap Motion to generate midi notes, with
 
 # Prerequisites
 
-* For this device to work you need a Leap Motion sensor and the ManosOSC application. You can find instructions on how to setup Leap Motion [here](https://www.leapmotion.com/setup), and you can get ManosOSC for OS X [here](https://apps.leapmotion.com/apps/manososc/osx) and for Windows [here](https://apps.leapmotion.com/apps/manososc/windows).
+* For this device to work you need a Leap Motion sensor and the ManosOSC application. You can find instructions on how to setup Leap Motion [here](https://www.leapmotion.com/setup), and you can get ManosOSC for OS X [here](https://lm-s-apps-amnesia.leapmotion.com/apps/manososc/osx) and for Windows [here](https://lm-s-apps-amnesia.leapmotion.com/apps/manososc/windows).
 
 
 # Connection Guidelines
